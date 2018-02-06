@@ -1,0 +1,34 @@
+<table>
+<tr>
+<td>Название породы:</td>
+<td>Бенгальская кошка</td>
+</tr><!-- Table Row -->
+<tr>
+<td>Страна происхождения:</td>
+<td> США </td>
+</tr><!-- Darker Table Row -->
+<tr>
+<td>Время зарождения породы:</td>
+<td> XIX век </td>
+</tr>
+<tr>
+<td>Вес:</td>
+<td> 3,6 - 6,8 кг </td>
+</tr>
+<tr>
+<td>Код EMS: </td>
+<td> BEN </td>
+</tr>
+<tr>
+<td>Продолжительность жизни:</td>
+<td> 12 - 16 лет </td>
+</tr>
+<tr>
+<td>Цена котят:</td>
+<td> 370 - 1450 $ </td>
+</tr>
+<tr>
+<td>Самые популярные клички:</td>
+<td><a href="/228-klichki-i-imena-dlya-koshki-i-kota.html"><span>список кличек для бенгальских котов</span></a></td>
+</tr>
+</table>

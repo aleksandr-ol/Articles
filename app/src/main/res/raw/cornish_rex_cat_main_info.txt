@@ -1,0 +1,34 @@
+<table>
+<tr>
+<td>Название породы:</td>
+<td>Корниш рекс</td>
+</tr><!-- Table Row -->
+<tr>
+<td>Страна происхождения:</td>
+<td> Англия </td>
+</tr><!-- Darker Table Row -->
+<tr>
+<td>Время зарождения породы:</td>
+<td> 1950 год </td>
+</tr>
+<tr>
+<td>Вес:</td>
+<td> 2,7 - 4,6 кг </td>
+</tr>
+<tr>
+<td>Код EMS: </td>
+<td> CRX </td>
+</tr>
+<tr>
+<td>Продолжительность жизни:</td>
+<td> 11 - 15 лет </td>
+</tr>
+<tr>
+<td>Цена котят:</td>
+<td> 70 - 250 $ </td>
+</tr>
+<tr>
+<td>Самые популярные клички:</td>
+<td><a href="/228-klichki-i-imena-dlya-koshki-i-kota.html"><span>список кличек для корниш-рексов</span></a></td>
+</tr>
+</table>

@@ -1,0 +1,34 @@
+<table>
+<tr>
+<td>Название породы:</td>
+<td>Бирманская кошка</td>
+</tr><!-- Table Row -->
+<tr>
+<td>Страна происхождения:</td>
+<td> Мьянма </td>
+</tr><!-- Darker Table Row -->
+<tr>
+<td>Время зарождения породы:</td>
+<td> точно неизвестно </td>
+</tr>
+<tr>
+<td>Вес:</td>
+<td> 3 - 6 кг </td>
+</tr>
+<tr>
+<td>Код EMS: </td>
+<td> SBI </td>
+</tr>
+<tr>
+<td>Продолжительность жизни:</td>
+<td> 14 - 16 лет </td>
+</tr>
+<tr>
+<td>Цена котят:</td>
+<td> 200 - 600 $ </td>
+</tr>
+<tr>
+<td>Самые популярные клички:</td>
+<td><a href="/228-klichki-i-imena-dlya-koshki-i-kota.html"><span>список кличек для Бирманских кошек</span></a></td>
+</tr>
+</table>

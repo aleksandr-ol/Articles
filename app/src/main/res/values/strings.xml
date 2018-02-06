@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Породы кошек</string>
+
+    <string name="main_info">Основная информация</string>
+    <string name="short_info">Краткое описание породы</string>
+    <string name="history">История породы</string>
+    <string name="health">Здоровье и болезни</string>
+
+    <string-array name="cats">
+        <item name="abyssinian_cat">Абиссинская кошка</item>
+        <item name="bengal_cat">Бенгальская кошка</item>
+        <item name="british_shorthair_cat">Британская короткошерстная кошка</item>
+        <item name="burmese_cat">Бирманская кошка</item>
+        <item name="cats_turkish_angora">Турецкая ангора</item>
+        <item name="cornish_rex_cat">Корниш рекс</item>
+        <item name="devon_rex_cat">Девон рекс</item>
+        <item name="egiptian_mau_foto">Египетская мау</item>
+        <item name="maine_coon">Мейн-кун</item>
+    </string-array>
+
+</resources>
